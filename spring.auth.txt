@@ -1,1 +1,22 @@
- 
+🟡 3. API com Autenticação (Login com Spring Security)
+Objetivo: Criar um sistema de login com autenticação básica.
+
+Dificuldade: ⭐⭐⭐
+
+Funcionalidades: Login, logout, autenticação com Spring Security
+
+Banco de dados: H2 ou PostgreSQL
+
+Ferramentas:
+
+Spring Boot
+
+Spring Web
+
+Spring Security
+
+Spring Data JPA
+
+JWT (opcional)
+
+Postman
