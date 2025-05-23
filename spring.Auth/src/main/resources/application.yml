@@ -1,0 +1,14 @@
+spring:
+  application:
+    name:
+      "spring.Auth"
+  datasource:
+    url:
+    username : postgres
+    password : postgres
+    driverClassName: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update, create-drop
+    show-sql: true
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
